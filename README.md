@@ -43,4 +43,4 @@ Aqui estão as ferramentas que usamos para criar o nosso podcast:
 Esse projeto é uma excelente maneira de explorar como as ferramentas de inteligência artificial podem ser aplicadas para facilitar e otimizar a criação de conteúdo. A IA torna o processo mais rápido, acessível e criativo, ajudando você a produzir um podcast de forma mais eficiente.
 
 Experimente e aproveite as ferramentas disponíveis para aprender, criar e se divertir com o poder da tecnologia!🚀
-# podcast_bootcamp_ia
+
